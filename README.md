@@ -27,7 +27,7 @@ Preliminary findings suggest market sentiment classification (Fear, Greed, etc.)
 ---
 
 ###  File Structure
-- `trader_sentiment_analysis.ipynb` – main Colab notebook with analysis
+- trader_sentiment_analysis.ipynb – main Colab notebook with analysis
 
 ---
 
