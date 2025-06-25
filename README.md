@@ -14,7 +14,8 @@ This project analyzes the relationship between trader performance (PnL) and mark
 - Visualized correlations between sentiment and Closed PnL
 - (Bonus) Engineered lag features for sentiment impact prediction
 
-## 🛠 Tools Used
+## 
+Tools Used
 - Python
 - Google Colab
 - Pandas, NumPy
